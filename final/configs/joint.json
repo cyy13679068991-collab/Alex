@@ -1,0 +1,9 @@
+{
+  "steps": 10,
+  "lr_mult": 0.1,
+  "optimizer": "Adam",
+  "reset_optimizer": true,
+  "seed_offset": 100000,
+  "temperature": "original absolute epoch E+t",
+  "initialization": "saved Euclidean KMeans centers; n_init=100 when training from scratch"
+}
